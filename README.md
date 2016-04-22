@@ -1,1 +1,1 @@
-This public repository reflects the commits from a private repo (minus the actual code)
+This public repository reflects the commits from a private repo (minus the actual code). The commits reflected are for a company project and cannot be shared publicly, and are summarized here for visibility in GitHub stats. Repo generated using https://github.com/ebrian/gitdummy.
